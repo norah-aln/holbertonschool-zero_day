@@ -1,1 +1,1 @@
-This is the README inside the git folder
+This is the updated README from GitHub UI
